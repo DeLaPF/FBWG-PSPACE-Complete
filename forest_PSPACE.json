@@ -107,7 +107,7 @@
                 {
                     "gid":17,
                     "height":64,
-                    "id":17,
+                    "id":5,
                     "name":"",
                     "properties":{"group":4},
                     "propertytypes":{"group":"int"},
@@ -121,7 +121,7 @@
                 {
                     "gid":17,
                     "height":64,
-                    "id":18,
+                    "id":6,
                     "name":"",
                     "properties":{"group":3},
                     "propertytypes":{"group":"int"},
@@ -133,9 +133,9 @@
                     "y":672
                 },
                 {
-                    "gid": 19,
+                    "gid": 23,
                     "height": 64,
-                    "id": 27,
+                    "id": 7,
                     "name": "",
                     "properties": {
                       "group": 3
@@ -147,12 +147,12 @@
                     "type": "",
                     "visible": true,
                     "width": 64,
-                    "x": 288,
-                    "y": 928
+                    "x": 352,
+                    "y": 704
                 },
                 {
                     "height":32,
-                    "id":19,
+                    "id":8,
                     "name":"",
                     "properties":{"dx":0,"dy":-3,"group":3},
                     "propertytypes":{"dx":"int","dy":"int","group":"int"},
@@ -165,7 +165,7 @@
                 },
                 {
                     "height":32,
-                    "id":21,
+                    "id":9,
                     "name":"",
                     "properties":{"dx":0,"dy":-3,"group":4},
                     "propertytypes":{"dx":"int","dy":"int","group":"int"},
