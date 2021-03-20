@@ -133,16 +133,12 @@
                     "y":672
                 },
                 {
-                    "gid": 21,
+                    "gid": 20,
                     "height": 64,
                     "id": 7,
                     "name": "",
-                    "properties": {
-                      "group": 3
-                    },
-                    "propertytypes": {
-                      "group": "int"
-                    },
+                    "properties": {"group": 3},
+                    "propertytypes": {"group": "int"},
                     "rotation": 0,
                     "type": "",
                     "visible": true,
