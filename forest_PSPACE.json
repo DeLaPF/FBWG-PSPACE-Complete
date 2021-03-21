@@ -90,7 +90,7 @@
                     "type":"",
                     "visible":true,
                     "width":64,
-                    "x":640,
+                    "x":672s,
                     "y":576
                 }
             ],
@@ -127,8 +127,21 @@
                     "rotation":0,
                     "type":"platform",
                     "visible":true,
-                    "width":64,
+                    "width":32,
                     "x":608,
+                    "y":704
+                },
+                {
+                    "height":96,
+                    "id":7,
+                    "name":"",
+                    "properties":{"dx":0,"dy":3,"group":3},
+                    "propertytypes":{"dx":"int","dy":"int","group":"int"},
+                    "rotation":0,
+                    "type":"platform",
+                    "visible":true,
+                    "width":32,
+                    "x":640,
                     "y":704
                 },
                 {
