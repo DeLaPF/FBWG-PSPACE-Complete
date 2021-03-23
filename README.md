@@ -15,11 +15,7 @@ _(This, however, also works with any json that you may want to redirect to)_
 How to use:
 1. Install the [Requestly](https://requestly.io/blog/2018/04/07/install-requestly-in-chrome-and-firefox/) extension/add-on onto either Firefox or Chrome
 2. Create Redirect Request Rule (as shown below)
-<p align="left" >
-    <a href="https://github.com/DeLaPF/FBWG-PSPACE-Complete" >
-        <img src="https://github.com/DeLaPF/FBWG-PSPACE-Complete/blob/master/images/Requestly.png" >
-    </a>
-</p>
+![Requestly](https://github.com/DeLaPF/FBWG-PSPACE-Complete/blob/master/images/Requestly.png)
 3. Click on _Save Rule_  
 4. Open Fireboy & Watergirl in a new tab and select the tutorial level _(this should work for any website that has FBWG, however you can use this [link](https://html5-games.io/game/fireboy-and-watergirl/) to be sure)_  
 5. You're done!!! The custom level should be up and running for you to test
