@@ -5,7 +5,7 @@
 Load *custom* JSON files into Fireboy & Watergirl: In the Forest Temple
 _(Works on all sites currently tested)_  
 
-![Non-Crossing Toggle-Lock](https://github.com/DeLaPF/FBWG-PSPACE-Complete/blob/master/images/NTL.png)
+![Non-Crossing Toggle-Lock](https://github.com/DeLaPF/FBWG-PSPACE-Complete/blob/master/images/NTL.png =720x)
 
 -----
 ### Instructions
