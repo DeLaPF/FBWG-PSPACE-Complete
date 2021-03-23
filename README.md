@@ -17,8 +17,9 @@ How to use:
 2. Create Redirect Request Rule (as shown below)
 ![Requestly](https://github.com/DeLaPF/FBWG-PSPACE-Complete/blob/master/images/Requestly.png)
 3. Click on _Save Rule_  
-4. Open Fireboy & Watergirl in a new tab and select the tutorial level _(this should work for any website that has FBWG, however you can use this [link](https://html5-games.io/game/fireboy-and-watergirl/) to be sure)_  
-5. You're done!!! The custom level should be up and running for you to test
+4. Open Fireboy & Watergirl in a new tab and select the tutorial level
+  _(this should work for any website that has FBWG, however you can use this [link](https://html5-games.io/game/fireboy-and-watergirl/) to be sure)_  
+6. You're done!!! The custom level should be up and running for you to test
 
 ### Additional Information
 As I alluded to prior, it is entirely possible for you to upload your own custom levels using this same method; all that is required for you to do so is to upload your own .json file to GitHub or any other place where you will be able to link to your file, and replace the redirect Destination with the URL to your own .json FBWG level.
