@@ -2,7 +2,7 @@
 
 [![msh - stars](https://img.shields.io/github/stars/DeLaPF/FBWG-PSPACE-Complete?color=ffbd19)](https://github.com/DeLaPF/FBWG-PSPACE-Complete)
 
-Load *custom* JSON files into Fireboy & Watergirl: In the Forest Temple
+Load *custom* JSON files into Fireboy & Watergirl: In the Forest Temple  
 _(Works on all sites currently tested)_  
 
 <p align="center" >
