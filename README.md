@@ -11,7 +11,7 @@ _(Works on all sites currently tested)_
 
 -----
 ### Instructions
-You will be redirecting http/https requests from the tutorial level to my custom level.
+You will be redirecting http/https requests from the tutorial level to my custom Non-Crossing Toggle-Lock level.  
 _(This, however, also works with any json that you may want to redirect to)_
 
 How to use:
