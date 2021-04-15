@@ -24,10 +24,10 @@ How to use:
 6. You're done!!! The custom level should be up and running for you to test
 
 ### Proof
-## PSPACE
+#### PSPACE
 Any state in Fireboy & Watergirl can be encoded in PSPACE by storing the players positions (n2 possible positions where n = r[ows] * c[olums]), an initial array of the objects positions in the level, and their state (which can only be state 1 or state 2 for a given object, so 2n), leaving the total encoding size of a single state as n2 * 2n, which falls under PSPACE.
 
-## PSPACE-hardness
+#### PSPACE-hardness
 By use of the Motion Planning framework, and the additional stipulation that the overworlds entering and leaving any gadget require a Dam (a locking device that requires the use of both Fireboy and Watergirl to move freely, as shown in the top row of the gadget in state one of the picture above), the Non-Crossing Toggle-Lock, or any of the other PSPACE-hard gadgets alone, are sufficient in proving the PSPACE-hardness of Fireboy & Watergirl.
 Thus, Fireboy & Watergirl is PSPACE-complete.
 
