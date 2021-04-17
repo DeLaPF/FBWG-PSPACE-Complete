@@ -32,7 +32,7 @@ By use of the Motion Planning framework the Non-Crossing Toggle-Lock, or any of 
 Thus, Fireboy & Watergirl is PSPACE-complete.
 
 #### Note
-A state is defined by having all objects of a given group in the same state, i.e., all levers must be facing the same direction otherwise you will find yourself in an in-between state (this does not break anything, but is good to note when testing levels with more than one level in a group).
+A state is reached by having all objects of a given group in the same state, i.e., all levers must be facing the same direction otherwise you will find yourself in an in-between state (this does not break anything, but is good to note when testing levels with more than one level in a group).
 
 ### Additional Information
 As I alluded to prior, it is entirely possible for you to upload your own custom levels using this same method; all that is required for you to do so is to upload your own .json file to GitHub or any other place where you will be able to link to your file, and replace the redirect Destination with the URL to your own .json FBWG level.
