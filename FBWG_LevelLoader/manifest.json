@@ -1,0 +1,16 @@
+{
+  "description": "Fireboy & Watergirl Level Loader",
+  "manifest_version": 2,
+  "name": "FBWG Level Loader",
+  "version": "1.0",
+
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "https://html5-games.io/game/fireboy-and-watergirl/"
+  ],
+
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
